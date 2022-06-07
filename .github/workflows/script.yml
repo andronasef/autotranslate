@@ -7,7 +7,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Downloading Script
-        run: wget https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2 -O ./res/gtranslate.js
+        run: wget https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2 -O /res/gtranslate.js
 
       - name: 'Update Repo'
         uses: stefanzweifel/git-auto-commit-action@v4
