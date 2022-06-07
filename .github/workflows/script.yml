@@ -1,0 +1,15 @@
+name: google translate script
+on: [push, workflow_dispatch]
+jobs:
+  download-translate-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Downloading Script
+        run: wget https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2 -O ./res/gtranslate.js
+
+      - name: 'Update Repo'
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automated Update
