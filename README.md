@@ -9,8 +9,8 @@ Before starting ✋. I want to tell you that every star 🌟 added to my space s
 
 <div align="center" style="margin-top:10px"> 
   
-[![GitHub stars](https://img.shields.io/github/stars/andronasef/autotranslate.svg?style=flat&label=Star&maxAge=3600&logo=github&color=success)](https://github.com/andronasef/iconify_flutter/)
-[![HitCount](https://hits.dwyl.com/andronasef/autotranslate.svg?style=flat)](https://hits.dwyl.com/andronasef/iconify_flutter)
+[![GitHub stars](https://img.shields.io/github/stars/andronasef/autotranslate.svg?style=flat&label=Star&maxAge=3600&logo=github&color=success)](https://github.com/andronasef/autotranslate/)
+[![HitCount](https://hits.dwyl.com/andronasef/autotranslate.svg?style=flat)](https://hits.dwyl.com/andronasef/autotranslate)
 
 </div>
 
