@@ -1,7 +1,9 @@
 Before starting ✋. I want to tell you that every star 🌟 added to my space shines my world and motivate me 💪 to make more awesome things like this one so please don't forget to give me a star and like the project.
 
 <h1 align="center">Auto Translate </h1>
-<a href="https://andronasef.github.io/autotranslate"><img src="example/public/translation.svg"/></a>
+<a href="https://andronasef.github.io/autotranslate">
+<center><img style="width: 50%" src="example/public/translation.svg"/></center>
+</a>
 
 <div align="center" style="margin-top:10px"> 
   
